@@ -1,10 +1,10 @@
 = anacrostic
 
-* http://github.com/#{github_username}/#{project_name}
+* http://github.com/yqbear/anacrostic
 
 == DESCRIPTION:
 
-FIX (describe your package)
+A simple ruby gem to help in creation of anacrostic puzzles.
 
 == FEATURES/PROBLEMS:
 
